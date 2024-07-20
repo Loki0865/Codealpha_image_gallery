@@ -1,1 +1,1 @@
-# it is an image gallery project using  HTML,CSS & Javascript project
+# it is an image gallery project using  HTML,CSS & Javascript
